@@ -13,6 +13,7 @@ black = "*"
 sklearn = "*"
 plotly = "*"
 tensorflow = "*"
+opencv-python = "*"
 
 [dev-packages]
 
