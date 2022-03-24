@@ -1,3 +1,4 @@
+from time import process_time_ns
 import joblib
 from numpy import product
 import pandas as pd
@@ -12,4 +13,10 @@ y_pred = model.predict(X_test)
 
 predictions = pd.DataFrame(y_pred)
 predictions = predictions.rename({0: "prediction"}, axis=1)
-print(predictions)
+predict_probability = model.predict_proba(X_test)
+print(predict_probability) 
+print(y_pred)
+## Gives a list of lists with 1 and 0. This happens because the decision tree can either go "left" or "rigth" 
+## Dependent on if the values of the data point are according to the parameters of the left path or right path
+## https://stackoverflow.com/questions/47251594/scikit-learn-decision-tree-probability-of-prediction-being-a-or-b?msclkid=77315ed3ab8211ec9f236be39ea50843
+## https://towardsdatascience.com/predict-vs-predict-proba-scikit-learn-bdc45daa5972#:~:text=The%20predict_proba%20%28%29%20method%20In%20the%20context%20of,returns%20the%20class%20probabilities%20for%20each%20data%20point.?msclkid=1fd6a50bab8211ecbbf44f281ea62deb
