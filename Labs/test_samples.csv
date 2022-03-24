@@ -1,101 +1,101 @@
 ,id,age,gender,cholesterol,gluc,smoke,alco,active,cardio,BMI_class,Blood_pressure_class
-852,1208,20631,1,1,1,0,0,1,0,overweight BMI,Hypertension 2
-3279,4733,20270,1,1,1,0,0,1,1,Obess(class3) BMI,Hypertension 2
-3479,5039,16059,2,1,1,0,0,0,1,overweight BMI,Hypertension 2
-3906,5656,15303,2,1,1,0,0,1,0,normal BMI,Hypertension 1
-4166,6011,20589,1,1,1,0,1,1,1,normal BMI,Hypertension 1
-4208,6069,18443,2,1,1,0,0,1,0,overweight BMI,Hypertension 1
-5696,8253,21270,1,1,1,0,0,1,1,normal BMI,Hypertension 1
-6007,8729,17509,1,1,2,0,1,1,1,Obess(class1) BMI,Hypertension 2
-6176,8979,17656,2,1,2,0,0,1,0,normal BMI,Hypertension 1
-7332,10681,19647,1,1,1,0,0,0,0,normal BMI,Healthy
-8676,12638,22722,2,1,1,0,0,0,0,overweight BMI,Hypertension 1
-9117,13271,21817,1,3,3,0,1,1,1,Obess(class3) BMI,Hypertension 2
-9359,13625,19912,1,3,1,0,1,1,0,Obess(class2) BMI,Hypertension Crisis
-10329,15074,16586,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
-10459,15272,21919,1,2,1,0,0,1,0,normal BMI,Elevated
-11396,16635,22000,1,1,1,0,0,1,0,normal BMI,Hypertension 2
-11916,17368,19658,1,1,1,0,0,1,1,normal BMI,Elevated
-12157,17714,18144,2,1,1,0,0,1,0,overweight BMI,Hypertension 2
-12281,17894,17535,1,1,1,0,0,1,1,Obess(class1) BMI,Hypertension 2
-12677,18434,19123,2,1,1,0,0,0,0,normal BMI,Hypertension 1
-13239,19284,18974,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-13397,19508,22137,1,1,1,0,0,1,0,normal BMI,Healthy
-13435,19560,19444,2,2,1,0,0,0,1,normal BMI,Hypertension 1
-14372,20949,15821,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
-14593,21279,19811,1,1,1,0,0,0,1,overweight BMI,Hypertension 1
-16362,23840,18230,2,1,1,0,0,1,0,normal BMI,Hypertension 1
-18132,26422,21107,2,1,1,1,1,1,1,overweight BMI,Hypertension 2
-18290,26650,21018,2,2,1,0,0,1,1,overweight BMI,Hypertension 1
-18302,26670,22903,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-18727,27297,19610,2,1,1,1,1,1,0,Obess(class1) BMI,Hypertension 1
-20034,29181,21044,1,1,1,0,0,0,0,normal BMI,Hypertension 1
-20380,29699,23350,2,1,1,0,0,0,0,overweight BMI,Hypertension 2
-20927,30514,14626,1,1,1,0,0,1,0,Obess(class1) BMI,Hypertension 2
-20970,30574,20585,1,1,1,0,0,1,0,overweight BMI,Hypertension 1
-21320,31066,21048,1,3,1,0,0,1,1,Obess(class1) BMI,Elevated
-21418,31215,23411,1,1,1,0,0,0,0,Obess(class1) BMI,Hypertension 1
-22432,32695,14334,1,1,1,0,0,0,0,normal BMI,Healthy
-25204,36698,19607,2,1,1,0,0,0,0,normal BMI,Hypertension 1
-26063,37991,22422,1,3,3,0,0,0,1,Obess(class1) BMI,Hypertension 2
-27461,40057,17573,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-27654,40340,18966,1,2,2,0,1,1,0,normal BMI,Healthy
-27870,40665,17560,1,2,1,0,0,1,0,Obess(class1) BMI,Hypertension 1
-28222,41160,18310,2,2,1,1,0,1,0,overweight BMI,Healthy
-28658,41782,20237,2,2,1,1,0,0,0,normal BMI,Healthy
-28747,41919,21728,1,1,1,0,0,1,1,normal BMI,Hypertension 1
-28786,41973,14573,1,1,1,0,0,1,0,Obess(class1) BMI,Healthy
-28894,42147,14515,2,1,1,0,0,1,1,normal BMI,Hypertension 2
-29257,42686,19629,1,1,1,0,0,1,1,normal BMI,Hypertension 1
-29872,43578,20966,2,1,2,1,1,1,1,overweight BMI,Hypertension 2
-30022,43794,19053,1,1,3,0,0,1,1,normal BMI,Hypertension 2
-30496,44422,18785,1,1,1,0,0,1,1,Obess(class2) BMI,Hypertension 2
-30513,44449,17538,1,1,1,0,0,1,0,overweight BMI,Hypertension 1
-32088,46737,19785,1,1,1,1,0,1,0,normal BMI,Hypertension 1
-32099,46755,21069,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-32326,47111,16721,2,1,2,0,0,0,1,Obess(class1) BMI,Hypertension 1
-34439,50217,17501,2,1,1,0,0,0,1,Obess(class3) BMI,Hypertension 1
-34672,50534,20160,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-34719,50604,20615,1,1,1,0,0,0,0,overweight BMI,Hypertension 1
-34994,50993,14629,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-35094,51140,19581,2,1,1,0,1,0,1,overweight BMI,Hypertension 1
-35383,51548,21193,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-36049,52551,18986,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
-36422,53080,21183,1,3,1,0,1,0,1,Obess(class1) BMI,Hypertension 2
-36435,53099,21236,2,1,1,0,0,0,1,Obess(class1) BMI,Hypertension 2
-36464,53144,19494,2,1,1,0,0,1,0,normal BMI,Healthy
-37931,55250,22506,1,3,1,0,0,1,1,overweight BMI,Hypertension 2
-38428,55976,19055,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
-41246,60076,19733,1,2,1,0,0,1,1,overweight BMI,Hypertension 1
-41348,60241,18819,1,1,1,0,0,1,0,Obess(class1) BMI,Hypertension 1
-42505,61938,16130,2,1,1,0,0,0,0,normal BMI,Hypertension 1
-44119,64256,16183,1,2,1,0,0,1,0,normal BMI,Healthy
-44598,64983,14697,1,1,1,0,0,1,1,Obess(class1) BMI,Hypertension 1
-45083,65675,16206,1,1,1,1,1,1,0,normal BMI,Healthy
-46567,67826,16725,1,1,1,0,1,1,0,Obess(class1) BMI,Elevated
-47053,68517,19567,2,1,1,1,0,1,0,overweight BMI,Hypertension Crisis
-47401,69029,21892,1,1,1,0,0,1,0,normal BMI,Healthy
-47448,69094,20395,1,3,3,0,0,1,1,Obess(class1) BMI,Hypertension 2
-47820,69636,19135,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
-48521,70660,16501,1,2,1,0,0,1,0,overweight BMI,Hypertension 2
-49616,72218,21719,2,2,1,1,0,1,1,overweight BMI,Hypertension 1
-49736,72381,22051,1,1,1,0,0,1,1,normal BMI,Hypertension 2
-49798,72463,19054,1,3,3,0,0,0,1,Obess(class2) BMI,Hypertension 2
-49824,72505,16238,1,1,1,0,0,0,0,overweight BMI,Hypertension 2
-51857,75429,19947,2,1,1,0,0,1,1,overweight BMI,Hypertension 1
-52351,76166,19824,1,1,1,0,0,0,0,normal BMI,Hypertension 1
-52582,76489,16641,1,1,1,0,0,0,0,Obess(class2) BMI,Hypertension 1
-54988,79991,21372,1,2,1,0,0,1,0,overweight BMI,Healthy
-55303,80469,19935,1,1,1,0,0,1,0,Obess(class1) BMI,Hypertension 1
-55334,80512,17420,1,3,1,0,0,1,1,normal BMI,Hypertension 1
-55393,80607,18236,2,1,1,0,0,1,1,overweight BMI,Elevated
-56156,81731,16742,2,1,1,0,0,1,0,normal BMI,Hypertension 1
-58879,85720,20218,2,3,3,1,0,0,1,Obess(class2) BMI,Hypertension 1
-59430,86539,20307,1,3,3,0,0,1,1,normal BMI,Hypertension 1
-60143,87585,21283,2,2,1,0,0,1,1,Obess(class1) BMI,Hypertension 2
-60218,87704,23307,1,3,1,0,1,0,0,overweight BMI,Hypertension 2
-60590,88235,17412,2,2,2,1,0,1,0,normal BMI,Healthy
-64687,94192,21882,2,3,3,0,0,1,1,overweight BMI,Hypertension 2
-65436,95304,17392,1,1,1,0,0,1,1,normal BMI,Healthy
-66238,96469,15282,1,1,1,0,0,1,0,normal BMI,Hypertension 1
-66785,97290,20466,1,2,1,0,0,1,0,overweight BMI,Hypertension 2
+0,1208,20631,1,1,1,0,0,1,0,overweight BMI,Hypertension 2
+1,4733,20270,1,1,1,0,0,1,1,Obess(class3) BMI,Hypertension 2
+2,5039,16059,2,1,1,0,0,0,1,overweight BMI,Hypertension 2
+3,5656,15303,2,1,1,0,0,1,0,normal BMI,Hypertension 1
+4,6011,20589,1,1,1,0,1,1,1,normal BMI,Hypertension 1
+5,6069,18443,2,1,1,0,0,1,0,overweight BMI,Hypertension 1
+6,8253,21270,1,1,1,0,0,1,1,normal BMI,Hypertension 1
+7,8729,17509,1,1,2,0,1,1,1,Obess(class1) BMI,Hypertension 2
+8,8979,17656,2,1,2,0,0,1,0,normal BMI,Hypertension 1
+9,10681,19647,1,1,1,0,0,0,0,normal BMI,Healthy
+10,12638,22722,2,1,1,0,0,0,0,overweight BMI,Hypertension 1
+11,13271,21817,1,3,3,0,1,1,1,Obess(class3) BMI,Hypertension 2
+12,13625,19912,1,3,1,0,1,1,0,Obess(class2) BMI,Hypertension Crisis
+13,15074,16586,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
+14,15272,21919,1,2,1,0,0,1,0,normal BMI,Elevated
+15,16635,22000,1,1,1,0,0,1,0,normal BMI,Hypertension 2
+16,17368,19658,1,1,1,0,0,1,1,normal BMI,Elevated
+17,17714,18144,2,1,1,0,0,1,0,overweight BMI,Hypertension 2
+18,17894,17535,1,1,1,0,0,1,1,Obess(class1) BMI,Hypertension 2
+19,18434,19123,2,1,1,0,0,0,0,normal BMI,Hypertension 1
+20,19284,18974,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+21,19508,22137,1,1,1,0,0,1,0,normal BMI,Healthy
+22,19560,19444,2,2,1,0,0,0,1,normal BMI,Hypertension 1
+23,20949,15821,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
+24,21279,19811,1,1,1,0,0,0,1,overweight BMI,Hypertension 1
+25,23840,18230,2,1,1,0,0,1,0,normal BMI,Hypertension 1
+26,26422,21107,2,1,1,1,1,1,1,overweight BMI,Hypertension 2
+27,26650,21018,2,2,1,0,0,1,1,overweight BMI,Hypertension 1
+28,26670,22903,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+29,27297,19610,2,1,1,1,1,1,0,Obess(class1) BMI,Hypertension 1
+30,29181,21044,1,1,1,0,0,0,0,normal BMI,Hypertension 1
+31,29699,23350,2,1,1,0,0,0,0,overweight BMI,Hypertension 2
+32,30514,14626,1,1,1,0,0,1,0,Obess(class1) BMI,Hypertension 2
+33,30574,20585,1,1,1,0,0,1,0,overweight BMI,Hypertension 1
+34,31066,21048,1,3,1,0,0,1,1,Obess(class1) BMI,Elevated
+35,31215,23411,1,1,1,0,0,0,0,Obess(class1) BMI,Hypertension 1
+36,32695,14334,1,1,1,0,0,0,0,normal BMI,Healthy
+37,36698,19607,2,1,1,0,0,0,0,normal BMI,Hypertension 1
+38,37991,22422,1,3,3,0,0,0,1,Obess(class1) BMI,Hypertension 2
+39,40057,17573,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+40,40340,18966,1,2,2,0,1,1,0,normal BMI,Healthy
+41,40665,17560,1,2,1,0,0,1,0,Obess(class1) BMI,Hypertension 1
+42,41160,18310,2,2,1,1,0,1,0,overweight BMI,Healthy
+43,41782,20237,2,2,1,1,0,0,0,normal BMI,Healthy
+44,41919,21728,1,1,1,0,0,1,1,normal BMI,Hypertension 1
+45,41973,14573,1,1,1,0,0,1,0,Obess(class1) BMI,Healthy
+46,42147,14515,2,1,1,0,0,1,1,normal BMI,Hypertension 2
+47,42686,19629,1,1,1,0,0,1,1,normal BMI,Hypertension 1
+48,43578,20966,2,1,2,1,1,1,1,overweight BMI,Hypertension 2
+49,43794,19053,1,1,3,0,0,1,1,normal BMI,Hypertension 2
+50,44422,18785,1,1,1,0,0,1,1,Obess(class2) BMI,Hypertension 2
+51,44449,17538,1,1,1,0,0,1,0,overweight BMI,Hypertension 1
+52,46737,19785,1,1,1,1,0,1,0,normal BMI,Hypertension 1
+53,46755,21069,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+54,47111,16721,2,1,2,0,0,0,1,Obess(class1) BMI,Hypertension 1
+55,50217,17501,2,1,1,0,0,0,1,Obess(class3) BMI,Hypertension 1
+56,50534,20160,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+57,50604,20615,1,1,1,0,0,0,0,overweight BMI,Hypertension 1
+58,50993,14629,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+59,51140,19581,2,1,1,0,1,0,1,overweight BMI,Hypertension 1
+60,51548,21193,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+61,52551,18986,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
+62,53080,21183,1,3,1,0,1,0,1,Obess(class1) BMI,Hypertension 2
+63,53099,21236,2,1,1,0,0,0,1,Obess(class1) BMI,Hypertension 2
+64,53144,19494,2,1,1,0,0,1,0,normal BMI,Healthy
+65,55250,22506,1,3,1,0,0,1,1,overweight BMI,Hypertension 2
+66,55976,19055,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
+67,60076,19733,1,2,1,0,0,1,1,overweight BMI,Hypertension 1
+68,60241,18819,1,1,1,0,0,1,0,Obess(class1) BMI,Hypertension 1
+69,61938,16130,2,1,1,0,0,0,0,normal BMI,Hypertension 1
+70,64256,16183,1,2,1,0,0,1,0,normal BMI,Healthy
+71,64983,14697,1,1,1,0,0,1,1,Obess(class1) BMI,Hypertension 1
+72,65675,16206,1,1,1,1,1,1,0,normal BMI,Healthy
+73,67826,16725,1,1,1,0,1,1,0,Obess(class1) BMI,Elevated
+74,68517,19567,2,1,1,1,0,1,0,overweight BMI,Hypertension Crisis
+75,69029,21892,1,1,1,0,0,1,0,normal BMI,Healthy
+76,69094,20395,1,3,3,0,0,1,1,Obess(class1) BMI,Hypertension 2
+77,69636,19135,1,1,1,0,0,1,1,overweight BMI,Hypertension 2
+78,70660,16501,1,2,1,0,0,1,0,overweight BMI,Hypertension 2
+79,72218,21719,2,2,1,1,0,1,1,overweight BMI,Hypertension 1
+80,72381,22051,1,1,1,0,0,1,1,normal BMI,Hypertension 2
+81,72463,19054,1,3,3,0,0,0,1,Obess(class2) BMI,Hypertension 2
+82,72505,16238,1,1,1,0,0,0,0,overweight BMI,Hypertension 2
+83,75429,19947,2,1,1,0,0,1,1,overweight BMI,Hypertension 1
+84,76166,19824,1,1,1,0,0,0,0,normal BMI,Hypertension 1
+85,76489,16641,1,1,1,0,0,0,0,Obess(class2) BMI,Hypertension 1
+86,79991,21372,1,2,1,0,0,1,0,overweight BMI,Healthy
+87,80469,19935,1,1,1,0,0,1,0,Obess(class1) BMI,Hypertension 1
+88,80512,17420,1,3,1,0,0,1,1,normal BMI,Hypertension 1
+89,80607,18236,2,1,1,0,0,1,1,overweight BMI,Elevated
+90,81731,16742,2,1,1,0,0,1,0,normal BMI,Hypertension 1
+91,85720,20218,2,3,3,1,0,0,1,Obess(class2) BMI,Hypertension 1
+92,86539,20307,1,3,3,0,0,1,1,normal BMI,Hypertension 1
+93,87585,21283,2,2,1,0,0,1,1,Obess(class1) BMI,Hypertension 2
+94,87704,23307,1,3,1,0,1,0,0,overweight BMI,Hypertension 2
+95,88235,17412,2,2,2,1,0,1,0,normal BMI,Healthy
+96,94192,21882,2,3,3,0,0,1,1,overweight BMI,Hypertension 2
+97,95304,17392,1,1,1,0,0,1,1,normal BMI,Healthy
+98,96469,15282,1,1,1,0,0,1,0,normal BMI,Hypertension 1
+99,97290,20466,1,2,1,0,0,1,0,overweight BMI,Hypertension 2
